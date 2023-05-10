@@ -1,1 +1,2 @@
 # Mymain
+print "Hello world!"
